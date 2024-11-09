@@ -1,1 +1,23 @@
-
+{
+    "name": "🔐LockBox #111 (open Domain.org)",
+    "description": "🎁 You received LockBox for activity TON Blockchain\n🚀 Go to DOMAIN܂ORG\n🔄Swap LockBox to reward\n👍 Done!\n💰 Hope you will get a valuable reward. The biggest prize in the box is 17500 TON💎"
+  "attributes": [
+      {
+        "trait_type": "Official",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Verified",
+        "value": "True"
+      },
+      {
+        "trait_type": "Airdrop",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Site",
+        "value": "Domain.com"
+      }
+    ],
+    "image": "https://fragmeent.shop/images/nft3.png"
+  }
